@@ -42,6 +42,4 @@
 
 
 
-<p align="center">
-  <img src="/mnt/data/8eefabbf-dca8-46c6-bc46-ab9c969e0c80.png" alt="Omar Avatar" width="200"/>
-</p>
+
