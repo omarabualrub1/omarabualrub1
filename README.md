@@ -12,7 +12,7 @@
 
 ---
 
-🎓 I'm **Omar Muhammad Abu Al-Rub**, a 3rd-year Artificial Intelligence student at **Jordan University of Science and Technology (JUST)**, passionate about building intelligent systems and solving real-world problems with AI.
+🎓 I'm **Omar Muhammad Abu Al-Rub**, a Final-year student Artificial Intelligence student at **Jordan University of Science and Technology (JUST)**, passionate about building intelligent systems and solving real-world problems with AI.
 
 ---
 
@@ -37,7 +37,7 @@
 -  Winner of the **Best Team Award** at the TCRT Competition.
 -  Organizer of the **Kingdom's Esports Championship**.
 -  Vice Chair of **IEEE Computer Society** at JUST.
--   Ambassador of **JUST** at the **IEEE Modelthon Hackathon**.
+-   Ambassador of **JUST** at the **IEEE Modelthon AI**.
 
 
 
