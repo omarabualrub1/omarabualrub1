@@ -12,7 +12,7 @@
 
 ---
 
-🎓 I'm **Omar Muhammad Abu Al-Rub**, a Final-year student Artificial Intelligence student at **Jordan University of Science and Technology (JUST)**, passionate about building intelligent systems and solving real-world problems with AI.
+🎓 I'm **Omar Mohammed Abu AlRub**, a Final-year student Artificial Intelligence student at **Jordan University of Science and Technology (JUST)**, passionate about building intelligent systems and solving real-world problems with AI.
 
 ---
 
