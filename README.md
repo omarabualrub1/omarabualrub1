@@ -32,7 +32,7 @@
 
 ### 📫 Let's Connect!
 - Email: omabualrub22@cit.just.edu.jo
-- LinkedIn: [linkedin.com/in/omarabualrub](https://linkedin.com/in/omarabualrub)
+- LinkedIn: [linkedin.com/in/omarabualrub]([https://linkedin.com/in/omarabualrub](https://www.linkedin.com/in/omar-abualrub-6b6ab1308/))
 - GitHub: [github.com/omarabualrub1](https://github.com/omarabualrub1)
 
 
