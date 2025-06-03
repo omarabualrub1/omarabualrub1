@@ -29,7 +29,7 @@
 - **AI/ML**: PyTorch, NumPy, pandas, Matplotlib
 - **NLP**: Transformers, GloVe, BERT, AraBERT
 - **Tools**: Git, Jupyter Notebook, Google Colab, Kaggle
-- **Frameworks**: Hugging Face 🤗, Scikit-learn 
+- **Frameworks**: Hugging Face , Scikit-learn 
 
 ---
 
