@@ -4,7 +4,7 @@
   <a href="https://github.com/omarabualrub1"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/omar-abualrub-6b6ab1308/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <br/>
-  <span style="font-size:16px">📫 omabualrub22@cit.just.edu.jo</span>
+  <span style="font-size:16px">oabualrub77@gmail.com</span>
 </p>
 
 
