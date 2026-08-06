@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Omar 👋</h1>
+<h1 align="center">Hi I'm Omar </h1>
 
 <p align="center">
   <a href="https://github.com/omarabualrub1"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -12,7 +12,13 @@
 
 ---
 
-🎓 I'm **Omar Mohammed Abu AlRub**, a Final-year student Artificial Intelligence student at **Jordan University of Science and Technology (JUST)**, passionate about building intelligent systems and solving real-world problems with AI.
+Results-driven Artificial Intelligence Graduate from Jordan University of Science and Technology (JUST) with 
+hands-on experience in deep learning, computer vision, and natural language processing. Proficient in 
+Python, PyTorch, and TensorFlow, with a strong track record of building and deploying end-to-end machine 
+learning pipelines. Experienced in developing AI solutions for real-world applications, including computer 
+vision and predictive analytics projects. Passionate about leveraging artificial intelligence to solve complex 
+problems and create impactful innovations. Seeking an AI/ML Engineer position where I can contribute 
+technical expertise while continuing to grow professionally.
 
 ---
 
@@ -26,10 +32,13 @@
 
 ###  Tech Stack
 - **Languages**: Python
-- **AI/ML**: PyTorch, NumPy, pandas, Matplotlib
-- **NLP**: Transformers, GloVe, BERT, AraBERT
-- **Tools**: Git, Jupyter Notebook, Google Colab, Kaggle
-- **Frameworks**: Hugging Face , Scikit-learn 
+- **AI/ML**:  Deep Learning, Machine Learning, NLP, Computer Vision, Object Detection, Active Learning, 
+Transfer Learning, Fine-Tuning LLMs, RAG 
+- **Tools**: Docker, GitHub Actions (CI/CD), Roboflow, Weights & Biases, Gradio, Git, Microsoft 
+Azure,  APIs
+- **Frameworks**:  PyTorch, TensorFlow, Ultralytics, Scikit-learn, XGBoost, Pandas, NumPy, 
+Matplotlib, Seaborn, OpenCV
+- **Other**: Robotics, Arduino, Prompt Engineering 
 
 ---
 
